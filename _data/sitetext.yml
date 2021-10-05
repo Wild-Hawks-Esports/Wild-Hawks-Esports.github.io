@@ -1,0 +1,90 @@
+en: &DEFAULT_EN
+  header:
+    title: " <br> <br> "
+    text: " "
+    button1: Explore
+    button1link: "#services"
+    button2: Join
+    button2link: "https://discord.gg/vxVwSjs9dZ"
+
+  services:
+    title: "Games"
+    text: "Wild Hawks Esports competes in"
+    section: services
+    list:
+      - title: "C-OPS"
+        desc: "Critical Ops is a Tactical FPS "
+        icon: assets/img/portfolio/logo_C-ops.jpg
+      - title: "BGMI"
+        desc: "Battlegrounds Mobile India is a Battle Royale"
+        icon: assets/img/portfolio/logo_BGMI.jpg 
+      - title: "CoDM"
+        desc: "Call of Duty Mobile is a Battle Royale"
+        icon: assets/img/portfolio/logo_CoDM.jpg
+      - title: "SO2"
+        desc: "StandOff 2 is a Tactical 5v5 FPS"
+        icon: assets/img/portfolio/logo_So2.jpg
+
+  portfolio:
+    title: "Roster"
+    text: "WHE Player List as per game"
+    section: portfolio
+    closebutton: "Close"
+
+  timeline:
+    title: "Team Leaders"
+    text: "Incharge of their respective rosters"
+    section: timeline
+    #start_align: "left"
+    events:
+      - title: "StandOff 2"
+        desc: "MOrTaL"
+        image: assets/img/timeline/WHE_red.png
+        alt: "MOrTaL"
+      - title: "C-Ops"
+        desc: "SycH"
+        image: assets/img/timeline/WHE_yellow.jpg
+        alt: "SycH"
+      - title: "BGMI"
+        desc: "RocKy"
+        image: assets/img/timeline/WHE_blue.png
+        alt: "RocKy"
+      
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
+
+  team:
+    title: "Clan Leader"
+    text: "Leader of Wild Hawks Esports Clan"
+    section: team
+    people:
+      - name: "SycH"
+        role: "Leader"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

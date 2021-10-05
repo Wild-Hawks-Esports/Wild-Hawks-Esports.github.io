@@ -1,0 +1,13 @@
+en: &DEFAULT_EN
+  nav:
+    - title: "Games"
+      section: services
+    - title: "Roster"
+      section: portfolio
+    - title: "TeamLeaders"
+      section: timeline
+    - title: "ClanLeader"
+      section: team
+    
+#    - title: "Contact"
+#      section: contact
