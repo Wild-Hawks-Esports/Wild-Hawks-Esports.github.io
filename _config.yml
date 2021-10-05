@@ -1,0 +1,18 @@
+theme: jekyll-agency
+
+url    : "" 
+baseurl: "" 
+
+title      : WHE | Wild Hawks Esports
+description: "Wild Hawks Esports Clan's Website"
+author     : LoneWolf_X
+logo:     #optional, defaults to site title ///
+  path: "assets/img/Wild Hawks Esports.png"
+  height: 60 #height in px, defaults to 52px
+
+locale: "en-US" # See available languages in _data/sitetext.yml
+
+collections:
+  portfolio:
+
+markdown: kramdown
