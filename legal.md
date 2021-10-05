@@ -7,7 +7,7 @@ background: grey
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit **https://yasirahmadx.github.io/**.
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit this website.
 
 **PERSONAL INFORMATION COLLECTED**
 
